@@ -9,20 +9,6 @@
 
 Originally built for IIT Bombay's hackathon (Problem Statement 3: Multi-Vendor E-Commerce & Inventory Management).
 
-## Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Testing](#testing)
-- [Demo](#demo)
-- [Project Structure](#project-structure)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 MarketHub is a full-stack, multi-tenant marketplace. Independent vendors sell through their own storefronts while sharing one customer-facing catalog, cart, and checkout. A single customer payment splits atomically into per-vendor sub-orders, each tracked through its own fulfillment pipeline.
